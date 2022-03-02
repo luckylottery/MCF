@@ -1,0 +1,7 @@
+.ant-form-item-control-input-content .ant-input{
+    padding: 3px;
+    color: black;
+    border: 2px solid #405cd0;
+    background-color: #e4e9ff;
+    border-radius: 10px;
+}
